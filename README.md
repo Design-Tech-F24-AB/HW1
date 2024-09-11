@@ -27,11 +27,11 @@ In VS Code, open the terminal by going to Terminal -> New Terminal. You should s
 
 In the terminal on windows, type the following command:
 
-`mamba env create -f environment_win.yml -y`
+`mamba env create -f environment_win.yml`
 
 In the terminal on mac, type the following command:
 
-`mamba env create -f environment_mac.yml -y`
+`mamba env create -f environment_mac.yml`
 
 and then press enter. This will create a new environment called 'DESIGN-6197-4197-HW1' install the necessary packages. 
 
